@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src=c:\Users\Mani\AppData\Roaming\Microsoft\Windows\Network Shortcuts\priya passport size photo.pdf" alt="Your Profile Picture" class="profile-picture">1
+            <img src=""c:\Users\Mani\AppData\Roaming\Microsoft\Windows\Network Shortcuts\priya passport size photo.pdf" alt="Your Profile Picture" class="profile-picture">1
             <h1>priyadharshini</h1>
             <p>Computer Application</p>
         </div>
@@ -165,7 +165,7 @@
         <div class="section-content">
             <center>
             <h2>Certificate</h2>
-            <a href=c:\Users\Mani\AppData\Roaming\Microsoft\Windows\Network Shortcuts\priyadharshini certificate.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href=""c:\Users\Mani\AppData\Roaming\Microsoft\Windows\Network Shortcuts\priyadharshini certificate.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
@@ -176,7 +176,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href=c:\Users\Mani\Downloads\priya resume.jpg" target="_blank" class="download-button">Download CV</a>
+            <a href=""c:\Users\Mani\Downloads\priya resume.jpg" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
